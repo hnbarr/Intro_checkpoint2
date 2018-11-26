@@ -170,7 +170,7 @@ p {
 }
 
 #land {
-    grid-area: tech;
+    grid-area: landing;
 }
 
 #popssite {
@@ -196,7 +196,7 @@ p {
     grid-template-areas:
     "worktitle worktitle"
     "bio rps"
-    "tech pops"
+    "landing pops"
 }
 
 /* skills */
