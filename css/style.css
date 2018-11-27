@@ -87,7 +87,7 @@ nav a {
 
 nav a:hover {
     color: #DF4E63;
-    border-radius: 12px;
+    border-radius: 15px;
     font-size: 20px;
 }
 
@@ -205,8 +205,8 @@ p {
 .box2 h4 {
     text-align: left;
     text-transform: uppercase;
-    margin: 10px;
-    color: #DBE7B2;
+    margin: 10px 20px;
+    color: #242B5C;
     font-size: 20px;
 }
 
@@ -233,7 +233,7 @@ p {
     top: 0;
     height: 25px;
     background-color: #242B5C;
-    border-radius: 12px;
+    border-radius: 15px;
 }
     
 .line:after {
@@ -246,7 +246,7 @@ p {
     position: absolute;
     top: 0;
     left: 0;
-    border-radius: 12px;
+    border-radius: 15px;
 }
 
 .line1:after {
@@ -254,7 +254,7 @@ p {
     padding-right: 10px;
     content: '80%';
     max-width: 80%;
-    border-radius: 12px;
+    border-radius: 15px;
 }
 
 .line2:after {
